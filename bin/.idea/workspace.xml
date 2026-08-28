@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9411ef98-f245-447e-bdc4-ca876741ca24" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automationEx/framework/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automationEx/framework/ConfigReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automationEx/framework/DriverFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automationEx/context/TestContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automationEx/hooks/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automationEx/listeners/ScreenshotListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/listeners/ScreenshotListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automationEx/pages/Cart/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/CartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automationEx/pages/Login/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automationEx/pages/SignUp/AccountInfoPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/SignUp/AccountInfoPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automationEx/pages/SignUp/SignUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/SignUp/SignUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automationEx/runners/RunCukes_Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/RunCukes_Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automationEx/runners/RunCukes_Chrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/RunCukes_Chrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automationEx/runners/RunCukes_Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/RunCukes_Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automationEx/runners/RunCukes_SignUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/RunCukes_SignUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automationEx/stepdefs/Cart/CartSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefs/CartSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automationEx/stepdefs/Login/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefs/LoginSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automationEx/stepdefs/SignUp/SignUpSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefs/SignUpSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/auth/Login/login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/auth/SignUp/Sign up.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/cart/Cart.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="300" />
+    </hideBySeverity>
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="31PuYYHsYTjFfqgIzyinXIUVTt3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: Sign up.executor": "Run",
+    "Cucumber Java.Feature: customers.executor": "Run",
+    "Cucumber Java.Feature: inventory.executor": "Run",
+    "Cucumber Java.Feature: inventory_add_product.executor": "Run",
+    "Cucumber Java.Feature: inventory_delete_product.executor": "Run",
+    "Cucumber Java.Feature: login.executor": "Run",
+    "Cucumber Java.Scenario: Successful login with valid credentials.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.C:/Users/coret/OneDrive/Desktop/automation/Automation-Exercise/ECommerce Web Shop/testng.xml.executor": "Run",
+    "TestNG.C:/Users/coret/OneDrive/Desktop/automation/AutomationExercise-ECommerce/testng.xml.executor": "Run",
+    "TestNG.C:/Users/coret/OneDrive/Desktop/automation/erp-automation-full - Copy/testng.xml.executor": "Run",
+    "TestNG.C:/Users/coret/OneDrive/Desktop/erp-automation-full/testng.xml.executor": "Run",
+    "TestNG.RunCukesTest.executor": "Run",
+    "TestNG.RunCukes_Chrome.executor": "Run",
+    "TestNG.RunCukes_Edge.executor": "Run",
+    "TestNG.RunCukes_Login.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/coret/OneDrive/Desktop/automation/AutomationExercise-ECommerce",
+    "onboarding.tips.debug.path": "C:/Users/coret/OneDrive/Desktop/automation/Automation-Exercise/ECommerce Web Shop/src/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.tools"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Gherkin"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\coret\OneDrive\Desktop\automation\erp-automation-full - Copy" />
+      <recent name="C:\Users\coret\OneDrive\Desktop\automation\erp-automation-full - Copy\src" />
+      <recent name="C:\Users\coret\OneDrive\Desktop\automation\Automation-Exercise\ECommerce Web Shop" />
+      <recent name="C:\Users\coret\OneDrive\Desktop\automation\Automation-Exercise\ECommerce Web Shop\src" />
+      <recent name="C:\Users\coret\OneDrive\Desktop\automation\erp-automation-full - Copy\src\test\resources\features\auth\SignUp" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RunCukes_Login">
+    <configuration name="C:/Users/coret/OneDrive/Desktop/automation/Automation-Exercise/ECommerce Web Shop/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ECommerce Web Shop" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/../Automation-Exercise/ECommerce Web Shop/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/coret/OneDrive/Desktop/automation/AutomationExercise-ECommerce/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automationEx" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/coret/OneDrive/Desktop/automation/erp-automation-full - Copy/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="erp-automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCukes_Chrome" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="erp-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automationEx.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.erp.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.automationEx.runners.RunCukes_Chrome" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCukes_Login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automationEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.RunCukes_Login" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RunCukes_Login" />
+        <item itemvalue="TestNG.C:/Users/coret/OneDrive/Desktop/automation/AutomationExercise-ECommerce/testng.xml" />
+        <item itemvalue="TestNG.C:/Users/coret/OneDrive/Desktop/automation/erp-automation-full - Copy/testng.xml" />
+        <item itemvalue="TestNG.C:/Users/coret/OneDrive/Desktop/automation/Automation-Exercise/ECommerce Web Shop/testng.xml" />
+        <item itemvalue="TestNG.RunCukes_Chrome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9411ef98-f245-447e-bdc4-ca876741ca24" name="Changes" comment="" />
+      <created>1755438077821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755438077821</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BasePage.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
