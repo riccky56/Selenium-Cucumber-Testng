@@ -12,7 +12,9 @@ public class ConfigReader {
         try (InputStream is = ConfigReader.class.getClassLoader()
                 .getResourceAsStream("config/config.properties")) {
             // Check the condition before deciding whether this block should run.
-            if (is != null) props.load(is);
+            if (is != null) {
+            	props.load(is);
+            }
         } catch (IOException e) {
             throw new RuntimeException("Cannot load config.properties", e);
         }
