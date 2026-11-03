@@ -48,6 +48,7 @@ public abstract class BasePage {
     // Method definition that performs a specific part of the program workflow.
     protected void selectByValue(By locator, String value) {
         new Select($(locator)).selectByValue(value);
+        
     }
 
     // Method definition that performs a specific part of the program workflow.
