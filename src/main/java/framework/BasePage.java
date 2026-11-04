@@ -13,6 +13,8 @@ public abstract class BasePage {
     protected WebDriver driver;
     protected WebDriverWait wait;
 
+   
+    		
     // Method definition that performs a specific part of the program workflow.
     protected BasePage() {
         this.driver = DriverFactory.getDriver();
@@ -22,6 +24,7 @@ public abstract class BasePage {
     // Method definition that performs a specific part of the program workflow.
     protected WebElement $(By locator) {
         // Return the final result back to the caller.
+    	
         return wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
     }
 

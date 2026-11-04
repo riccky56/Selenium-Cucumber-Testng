@@ -14,7 +14,7 @@ import java.time.Duration;
 public class DriverFactory {
 	// Method definition that performs a specific part of the program workflow.
 	private static final ThreadLocal<WebDriver> tlDriver = new ThreadLocal<>();
-
+	
 	// Method definition that performs a specific part of the program workflow.
 	public static void initDriver(String browser, boolean headless) {
 		browser = browser == null ? "chrome" : browser.toLowerCase();
@@ -44,6 +44,7 @@ public class DriverFactory {
 		default -> throw new IllegalArgumentException("Unsupported browser: " + browser);
 		}
 		getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(0));
+	
 	}
 
 	// Method definition that performs a specific part of the program workflow.
